@@ -1,5 +1,4 @@
-Zhuohan Gu CNetID: zhuohan
-
+Zhuohan Gu CNetID: zhuohan 
 UChicago CS Git Tutorial
-Git is pretty cool
+Git is pretty cool 
 Hopefully our last change...
